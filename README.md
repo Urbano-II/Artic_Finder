@@ -1,5 +1,8 @@
 # Artic_Finder
 
+Requirements:
+		Pyhton 3, Blast, Muscle, pandas module.
+
 Description: 
 
 		This program does Blastp onto multiple genbank files. Hit results are
